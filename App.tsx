@@ -13,7 +13,7 @@ import { useEffect } from 'react';
 
 // The logo will be referenced by its public path.
 // Ensure 'kyplogo.png' is in the root project directory (same level as index.html).
-const kypLogoPath = '/kyplogo.png';
+const kypLogoPath = 'https://i.ibb.co/WWvbfqGS/kyplogo.png';
 
 const ScrollToTop: React.FC = () => {
   const { pathname } = useLocation();

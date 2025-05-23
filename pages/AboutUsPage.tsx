@@ -36,7 +36,7 @@ const AboutUsPage: React.FC = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div className="animate-slide-in-left">
               <img 
-                src="/about.jpg" 
+                src="https://i.ibb.co/wF54JgrF/about.jpg" 
                 alt="KYP Center Students" 
                 className="rounded-lg shadow-xl w-full"
               />

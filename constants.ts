@@ -15,17 +15,17 @@ export const NAV_LINKS: NavLinkItem[] = [
 export const HERO_SLIDES: HeroSlide[] = [
   {
     id: 'slide1',
-    imageUrl: '/image.png', // User provided banner
+    imageUrl: 'https://i.ibb.co/DDDnb6Yy/banner1.png', // User provided banner
     altText: 'KYP Banner - Youth Empowerment',
   },
   {
     id: 'slide2',
-    imageUrl: '/banner2.png',
+    imageUrl: 'https://i.ibb.co/kVRKdWJ1/banner2.jpg',
     altText: 'Students in a KYP classroom',
   },
   {
     id: 'slide3',
-    imageUrl: '/banner3.png',
+    imageUrl: 'https://i.ibb.co/BVQV1qDp/banner3.jpg',
     altText: 'Successful KYP graduates',
     
   }
@@ -69,7 +69,7 @@ export const MOCK_COURSES: Course[] = [
     title: 'KYP - IT Literacy (BS-CIT)', 
     description: 'Master fundamental computer skills, MS Office suite, and effective internet usage for daily tasks.', 
     duration: '120 Hours', 
-    image: '/courseimages/oneimage.jpg', 
+    image: 'https://i.ibb.co/Xxhm4wP7/one.jpg', 
     status: 'Upcoming', 
     batchName: 'August Intake 2024', 
     highlights: ['Windows OS', 'MS Word, Excel, PowerPoint', 'Internet & Email'],
@@ -87,7 +87,7 @@ export const MOCK_COURSES: Course[] = [
     title: 'KYP - Language Skills (BS-CLS)', 
     description: 'Enhance your English communication, develop soft skills, and boost your personality for professional success.', 
     duration: '80 Hours', 
-    image: '/courseimages/twoimage.jpg', 
+    image: 'https://i.ibb.co/v6h2ctW0/two.jpg', 
     status: 'Ongoing', 
     batchName: 'July Current Batch', 
     highlights: ['Spoken English', 'Presentation Skills', 'Interview Techniques'],
@@ -105,7 +105,7 @@ export const MOCK_COURSES: Course[] = [
     title: 'KYP - Soft Skills (BS-CSS)', 
     description: 'Learn essential professional skills including Tally, GST, and office management for career growth.', 
     duration: '100 Hours', 
-    image: '/courseimages/threeimage.png', 
+    image: 'https://i.ibb.co/MyBHkRZy/three.png', 
     status: 'Upcoming', 
     batchName: 'September Fast-Track', 
     highlights: ['Tally ERP 9', 'GST Compliance', 'Office Etiquette'],
